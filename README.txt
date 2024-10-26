@@ -1,6 +1,6 @@
 # JAS-Haunted-Castle-PvP
 
-Add or merge the contents into the respective files... These follow the same step order from Bhaalshad's
+Add or merge the contents into the respective files...
 
   1) To spawn the castle add "Haunted_JAS.json" to your custom folder and add "custom/Haunted_JAS.json" to the static object spawner array in cfggameplay.json
       -I adjusted the heights of the buildings and got rid of the front gate... so nobody gets out.
@@ -16,7 +16,7 @@ Add or merge the contents into the respective files... These follow the same ste
 
           "spawnGearPresetFiles": ["custom/Jason.json", "custom/Freddy.json", "custom/Scream_Queen.json"],
 
-  3) Load/merge the remaining zombie files from Bhaalshad's
+  4) Load/merge the remaining zombie files from Bhaalshad's
       -Modify "ZmbM_SkaterYoung_Blue" in cfgspawnabletypes.xml
 
           <type name="ZmbM_SkaterYoung_Blue">
