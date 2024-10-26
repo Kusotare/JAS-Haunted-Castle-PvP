@@ -2,14 +2,14 @@
 
 Add or merge the contents into the respective files... These follow the same step order from Bhaalshad's
 
-  1) To spawn the castle add "Haunted_JAS.json" to your custom folder and add "custom/Haunted_JAS.json" to the cfggameplay.json
+  1) To spawn the castle add "Haunted_JAS.json" to your custom folder and add "custom/Haunted_JAS.json" to the static object spawner array in cfggameplay.json
       -I adjusted the heights of the buildings and got rid of the front gate... so nobody gets out.
      
   2) To have the new buildings spawn loot:
      -Merge the contents of the mapgrouppos.xml here with the server's. (lets the game know these are loot spots)
      -Merge the contents of the mapgroupproto.xml here with the server's (lets the game know the loot spawn points within the buildings)
      
-  3) Load/merge the zombie files from Bhaalshad's
+  3) Load/merge the remaining zombie files from Bhaalshad's
       -Modify "ZmbM_SkaterYoung_Blue" in cfgspawnabletypes.xml
 
         <type name="ZmbM_SkaterYoung_Blue">
