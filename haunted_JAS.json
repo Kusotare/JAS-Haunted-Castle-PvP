@@ -1,0 +1,6936 @@
+{
+    "Objects": [
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12110.799805,
+                143,
+                12526.900391
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0,
+            "_comments1": "File created at DayZ BoosterZ",
+            "_comments2": "You can view more tools like this at dayzboosterz.com"
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12142.400391,
+                143,
+                12515.700195
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12159.599609,
+                148.593994,
+                12512.799805
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12178.535156,
+                148.593689,
+                12505.923828
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12197.898438,
+                148.59375,
+                12499.009766
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12057.294922,
+                148.593979,
+                12549.586914
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12076.230469,
+                148.593674,
+                12542.710938
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12095.59375,
+                148.593735,
+                12535.796875
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12040.799805,
+                154,
+                12554.599609
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                12043.799805,
+                144,
+                12569.5
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12214.099609,
+                154,
+                12493.099609
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                12217.200195,
+                144,
+                12507.5
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [
+                12248.075195,
+                148.590103,
+                12472.825195
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12230.976563,
+                148.593735,
+                12487.137695
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12024.819336,
+                148.593674,
+                12560.952148
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [
+                12003.119141,
+                148.590073,
+                12560.794922
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                11998.785156,
+                148.593689,
+                12582.072266
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                11996.137695,
+                148.481384,
+                12572.305664
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12005.763672,
+                148.593719,
+                12601.419922
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12012.611328,
+                148.593704,
+                12620.500977
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [
+                12012.59668,
+                148.590134,
+                12642.569336
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12026.905273,
+                148.593704,
+                12659.701172
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12033.586914,
+                148.593719,
+                12678.543945
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12040.507813,
+                148.593628,
+                12697.472656
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                12261,
+                148.481003,
+                12477.400391
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12264.931641,
+                148.593796,
+                12486.165039
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12271.835938,
+                148.593765,
+                12505.052734
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12278.879883,
+                148.593674,
+                12524.083008
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [
+                12293.166992,
+                148.590103,
+                12541.12793
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12293.011719,
+                148.593674,
+                12563.051758
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12299.875977,
+                148.593719,
+                12581.84082
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12306.896484,
+                148.593689,
+                12600.824219
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12313.5,
+                154,
+                12616.400391
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                12298.700195,
+                144,
+                12619
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12046.200195,
+                154,
+                12713.799805
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                12060.700195,
+                144,
+                12710.599609
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12058.375977,
+                148.593674,
+                12723.37793
+            ],
+            "ypr": [
+                -25,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12076.857422,
+                148.593765,
+                12731.973633
+            ],
+            "ypr": [
+                -25,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12095.53125,
+                148.593719,
+                12740.712891
+            ],
+            "ypr": [
+                -25,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12310.279297,
+                148.593719,
+                12632.021484
+            ],
+            "ypr": [
+                64.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12301.705078,
+                148.593735,
+                12650.65332
+            ],
+            "ypr": [
+                64.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12293.176758,
+                148.593719,
+                12668.929688
+            ],
+            "ypr": [
+                64.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [
+                12291.510742,
+                148.590179,
+                12690.841797
+            ],
+            "ypr": [
+                64.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [
+                12110.890625,
+                148.590103,
+                12756.369141
+            ],
+            "ypr": [
+                -25,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12270.651367,
+                148.593781,
+                12700.482422
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12131.805664,
+                148.593704,
+                12749.330078
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12151.117188,
+                148.593689,
+                12742.210938
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12251.462891,
+                148.593719,
+                12707.545898
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12236.200195,
+                143,
+                12713.799805
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12167.799805,
+                143,
+                12736.799805
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Gate",
+            "pos": [
+                12202.200195,
+                144,
+                12725.400391
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12183.583008,
+                148.593674,
+                12731.081055
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12220.329102,
+                148.59375,
+                12719.606445
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12221.700195,
+                143.339005,
+                12761.299805
+            ],
+            "ypr": [
+                -69.999794,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12209.139648,
+                143.338654,
+                12765.770508
+            ],
+            "ypr": [
+                -69.999825,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Donjon",
+            "pos": [
+                12229.948242,
+                147.403778,
+                12784.665039
+            ],
+            "ypr": [
+                19.999956,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Donjon",
+            "pos": [
+                12212.871094,
+                147.403793,
+                12776.549805
+            ],
+            "ypr": [
+                19.999956,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Donjon",
+            "pos": [
+                12216.818359,
+                147.403732,
+                12789.746094
+            ],
+            "ypr": [
+                19.999956,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Donjon",
+            "pos": [
+                12225.142578,
+                147.403793,
+                12771.908203
+            ],
+            "ypr": [
+                19.999956,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12235.836914,
+                143.338593,
+                12768.600586
+            ],
+            "ypr": [
+                -159.99942,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12240.299805,
+                143.339005,
+                12780.799805
+            ],
+            "ypr": [
+                -159.998993,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12219.5,
+                158.339005,
+                12776
+            ],
+            "ypr": [
+                -69.999794,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12220.700195,
+                143,
+                12801
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12201.641602,
+                143.338623,
+                12780.109375
+            ],
+            "ypr": [
+                19.999956,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12232.599609,
+                143.339005,
+                12796.099609
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12222.700195,
+                158.339005,
+                12785.099609
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12206.286133,
+                143.338623,
+                12792.967773
+            ],
+            "ypr": [
+                19.999956,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Donjon",
+            "pos": [
+                12195.930664,
+                154.403732,
+                12768.392578
+            ],
+            "ypr": [
+                19.999956,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Donjon",
+            "pos": [
+                12209.299805,
+                154.404007,
+                12806.799805
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Donjon",
+            "pos": [
+                12234.099609,
+                154.404007,
+                12754.799805
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Donjon",
+            "pos": [
+                12246.799805,
+                154.585007,
+                12792.900391
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Chapel",
+            "pos": [
+                12224.5,
+                180,
+                12781.900391
+            ],
+            "ypr": [
+                25,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Chapel",
+            "pos": [
+                12218.299805,
+                180,
+                12778.5
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12146.299805,
+                148.593994,
+                12756.799805
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12153.140625,
+                148.593719,
+                12775.782227
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12160.023438,
+                148.593719,
+                12795.212891
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12166.797852,
+                148.593735,
+                12814.053711
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12173.661133,
+                148.593719,
+                12832.907227
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12178.799805,
+                153.800003,
+                12849.200195
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bergfrit",
+            "pos": [
+                12296.799805,
+                156,
+                12805.099609
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12263.941406,
+                148.593689,
+                12715.28125
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12270.856445,
+                148.593719,
+                12734.15332
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12277.760742,
+                148.59552,
+                12753.050781
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12284.629883,
+                149.178619,
+                12771.925781
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12291.416992,
+                150.848831,
+                12790.81543
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12194.287109,
+                148.593704,
+                12848.21582
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12284.393555,
+                150.89917,
+                12815.583008
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12264.922852,
+                149.836029,
+                12822.533203
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12245.558594,
+                148.864349,
+                12829.563477
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12226.317383,
+                148.531082,
+                12836.602539
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12210.794922,
+                148.583008,
+                12842.207031
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Stairs",
+            "pos": [
+                12283,
+                146,
+                12808.799805
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion2",
+            "pos": [
+                12301.299805,
+                141.300003,
+                12607.299805
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion2",
+            "pos": [
+                12298.299805,
+                141.300003,
+                12598.700195
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion2",
+            "pos": [
+                12295.200195,
+                141.300003,
+                12590.099609
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion2",
+            "pos": [
+                12292.260742,
+                141.300018,
+                12581.80957
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion2",
+            "pos": [
+                12289.333984,
+                141.300018,
+                12573.276367
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion2",
+            "pos": [
+                12286.210938,
+                141.300018,
+                12564.648438
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion2",
+            "pos": [
+                12283.188477,
+                141.300003,
+                12555.998047
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Church3",
+            "pos": [
+                12167.599609,
+                154.5,
+                12634.299805
+            ],
+            "ypr": [
+                -68.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [
+                12179.428711,
+                148.590027,
+                12665.359375
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12157.469727,
+                148.593735,
+                12659.726563
+            ],
+            "ypr": [
+                -9,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12192.143555,
+                148.593719,
+                12646.236328
+            ],
+            "ypr": [
+                53.999969,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12137.796875,
+                148.593719,
+                12656.642578
+            ],
+            "ypr": [
+                -9,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12204.24707,
+                148.593689,
+                12629.492188
+            ],
+            "ypr": [
+                53.999985,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [
+                12213.860352,
+                148.590103,
+                12610.455078
+            ],
+            "ypr": [
+                115.000015,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [
+                12117.560547,
+                148.590134,
+                12649.246094
+            ],
+            "ypr": [
+                -72.000015,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12128.519531,
+                148.593719,
+                12630.832031
+            ],
+            "ypr": [
+                -125.99987,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12192.863281,
+                148.593719,
+                12604.476563
+            ],
+            "ypr": [
+                171.000122,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [
+                12134.376953,
+                148.590103,
+                12609.498047
+            ],
+            "ypr": [
+                -126.000061,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Bastion",
+            "pos": [
+                12173.839844,
+                148.590057,
+                12593.650391
+            ],
+            "ypr": [
+                171.000122,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Well_Pump_Blue",
+            "pos": [
+                12133.299805,
+                141,
+                12608.799805
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Well_Pump_Blue",
+            "pos": [
+                12174.099609,
+                141,
+                12591.5
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1",
+            "pos": [
+                12106.400391,
+                143.150009,
+                12559.599609
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1_Half",
+            "pos": [
+                12092.799805,
+                141.650009,
+                12564.700195
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig2",
+            "pos": [
+                12074.200195,
+                144.650009,
+                12569.099609
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3",
+            "pos": [
+                12059.200195,
+                145.150009,
+                12577.5
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseSmall1",
+            "pos": [
+                12043.299805,
+                143.650009,
+                12582.400391
+            ],
+            "ypr": [
+                -72.000015,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3_Half",
+            "pos": [
+                12030.099609,
+                142.650009,
+                12590.400391
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1",
+            "pos": [
+                12114,
+                143.151016,
+                12583.099609
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1_Half",
+            "pos": [
+                12100.382813,
+                141.651047,
+                12588.208984
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig2",
+            "pos": [
+                12081.783203,
+                144.651047,
+                12592.608398
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3",
+            "pos": [
+                12066.783203,
+                145.151047,
+                12601.008789
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseSmall1",
+            "pos": [
+                12050.882813,
+                143.651047,
+                12605.90918
+            ],
+            "ypr": [
+                107.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3_Half",
+            "pos": [
+                12037.682617,
+                142.651047,
+                12613.90918
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1",
+            "pos": [
+                12247.630859,
+                143.150009,
+                12507.217773
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1_Half",
+            "pos": [
+                12234.030273,
+                141.650009,
+                12512.318359
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig2",
+            "pos": [
+                12215.430664,
+                144.650009,
+                12516.717773
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3",
+            "pos": [
+                12200.430664,
+                145.150009,
+                12525.118164
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseSmall1",
+            "pos": [
+                12184.530273,
+                143.650009,
+                12530.018555
+            ],
+            "ypr": [
+                -72.000015,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3_Half",
+            "pos": [
+                12171.330078,
+                142.650009,
+                12538.018555
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1",
+            "pos": [
+                12255.213867,
+                143.151047,
+                12530.726563
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1_Half",
+            "pos": [
+                12241.613281,
+                141.651047,
+                12535.827148
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig2",
+            "pos": [
+                12223.013672,
+                144.651047,
+                12540.226563
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3",
+            "pos": [
+                12208.013672,
+                145.151047,
+                12548.626953
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseSmall1",
+            "pos": [
+                12192.113281,
+                143.651047,
+                12553.527344
+            ],
+            "ypr": [
+                107.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3_Half",
+            "pos": [
+                12178.913086,
+                142.651047,
+                12561.527344
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Wall_Gate_Ind3",
+            "pos": [
+                12154.799805,
+                141,
+                12603.5
+            ],
+            "ypr": [
+                -158.999985,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                12147.306641,
+                148.481384,
+                12605.962891
+            ],
+            "ypr": [
+                -126.000061,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                12162.105469,
+                148.4814,
+                12600.34668
+            ],
+            "ypr": [
+                -98.999962,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                12162.110352,
+                148.4814,
+                12599.556641
+            ],
+            "ypr": [
+                -9.000004,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                12146.785156,
+                148.4814,
+                12605.693359
+            ],
+            "ypr": [
+                143.999771,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1_Half",
+            "pos": [
+                12123.900391,
+                141.565994,
+                12675.400391
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig2",
+            "pos": [
+                12154.561523,
+                144.650009,
+                12690.169922
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3",
+            "pos": [
+                12139.561523,
+                145.150009,
+                12698.570313
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseSmall1",
+            "pos": [
+                12123.661133,
+                143.650009,
+                12703.470703
+            ],
+            "ypr": [
+                -72.000015,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3_Half",
+            "pos": [
+                12110.460938,
+                142.650009,
+                12711.470703
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1_Half",
+            "pos": [
+                12180.744141,
+                141.651047,
+                12709.279297
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig2",
+            "pos": [
+                12162.144531,
+                144.651047,
+                12713.678711
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3",
+            "pos": [
+                12147.144531,
+                145.151047,
+                12722.079102
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseSmall1",
+            "pos": [
+                12131.244141,
+                143.651047,
+                12726.979492
+            ],
+            "ypr": [
+                107.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3_Half",
+            "pos": [
+                12118.043945,
+                142.651047,
+                12734.979492
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1_Half",
+            "pos": [
+                12257.893555,
+                141.649979,
+                12651.989258
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig2",
+            "pos": [
+                12239.293945,
+                144.649979,
+                12656.388672
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3",
+            "pos": [
+                12224.293945,
+                145.149979,
+                12664.789063
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseSmall1",
+            "pos": [
+                12208.393555,
+                143.649979,
+                12669.689453
+            ],
+            "ypr": [
+                -72.000015,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3_Half",
+            "pos": [
+                12239.700195,
+                142.438004,
+                12627.400391
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1",
+            "pos": [
+                12279.077148,
+                143.151016,
+                12670.397461
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1_Half",
+            "pos": [
+                12265.476563,
+                141.651016,
+                12675.498047
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig2",
+            "pos": [
+                12246.876953,
+                144.651016,
+                12679.897461
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3",
+            "pos": [
+                12231.876953,
+                145.151016,
+                12688.297852
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseSmall1",
+            "pos": [
+                12215.976563,
+                143.651016,
+                12693.198242
+            ],
+            "ypr": [
+                107.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_Church2",
+            "pos": [
+                12049.900391,
+                145,
+                12647.299805
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_Church2",
+            "pos": [
+                12058.299805,
+                145,
+                12669.900391
+            ],
+            "ypr": [
+                109.999977,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_Church2",
+            "pos": [
+                12065.799805,
+                145,
+                12690.299805
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12297.378906,
+                148.593719,
+                12615.035156
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12283.511719,
+                148.593689,
+                12608.595703
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_Corner1",
+            "pos": [
+                12287.386719,
+                148.481384,
+                12617.614258
+            ],
+            "ypr": [
+                18.000032,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12276.59082,
+                148.593796,
+                12589.682617
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12269.700195,
+                148.593994,
+                12570.599609
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Chapel2_White",
+            "pos": [
+                12179.200195,
+                143,
+                12664.200195
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Chapel2_White",
+            "pos": [
+                12120.700195,
+                143,
+                12648.799805
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Chapel2_White",
+            "pos": [
+                12210.5,
+                143,
+                12612
+            ],
+            "ypr": [
+                115.000015,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3_Half",
+            "pos": [
+                12161.249023,
+                143.469116,
+                12753.869141
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseSmall1",
+            "pos": [
+                12173.677734,
+                143.435989,
+                12768.273438
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3",
+            "pos": [
+                12174.829102,
+                145.033478,
+                12786.349609
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig2",
+            "pos": [
+                12188.706055,
+                144.284637,
+                12801.399414
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1_Half",
+            "pos": [
+                12193,
+                140.994995,
+                12822.299805
+            ],
+            "ypr": [
+                107.999992,
+                0,
+                0
+            ],
+            "scale": 0.999998,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3_Half",
+            "pos": [
+                12102.400391,
+                142.438004,
+                12612.200195
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseSmall1",
+            "pos": [
+                12083.445313,
+                143.436035,
+                12635.501953
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3",
+            "pos": [
+                12084.59668,
+                145.033524,
+                12653.578125
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig2",
+            "pos": [
+                12098.5,
+                144.285004,
+                12668.599609
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1_Half",
+            "pos": [
+                12102.777344,
+                140.994995,
+                12689.543945
+            ],
+            "ypr": [
+                -72.000008,
+                0,
+                0
+            ],
+            "scale": 0.999998,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3_Half",
+            "pos": [
+                12245.228516,
+                143.469177,
+                12729.348633
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseSmall1",
+            "pos": [
+                12257.657227,
+                143.43605,
+                12743.75293
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3",
+            "pos": [
+                12258.808594,
+                145.033539,
+                12761.829102
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig2",
+            "pos": [
+                12272.685547,
+                144.284698,
+                12776.878906
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1_Half",
+            "pos": [
+                12276.989258,
+                140.99501,
+                12797.794922
+            ],
+            "ypr": [
+                -72.000008,
+                0,
+                0
+            ],
+            "scale": 0.999998,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3_Half",
+            "pos": [
+                12211.5,
+                142.438004,
+                12579.299805
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseSmall1",
+            "pos": [
+                12245.443359,
+                143.436066,
+                12572.669922
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3",
+            "pos": [
+                12246.594727,
+                145.033554,
+                12590.746094
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig2",
+            "pos": [
+                12260.47168,
+                144.284714,
+                12605.795898
+            ],
+            "ypr": [
+                -69.999992,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1_Half",
+            "pos": [
+                12264.775391,
+                140.995026,
+                12626.711914
+            ],
+            "ypr": [
+                -72.000008,
+                0,
+                0
+            ],
+            "scale": 0.999998,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig1",
+            "pos": [
+                12202.360352,
+                143.150101,
+                12699.217773
+            ],
+            "ypr": [
+                18,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Ruin_HouseBig3_Half",
+            "pos": [
+                12273.205078,
+                142.651031,
+                12647.522461
+            ],
+            "ypr": [
+                -161.999954,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                12128.460938,
+                148.59523,
+                12523.910156
+            ],
+            "ypr": [
+                -159.999939,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12135.411133,
+                141.261032,
+                12585.255859
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12134.945313,
+                140.156158,
+                12583.666016
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12134.137695,
+                141.261017,
+                12580.979492
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12133.671875,
+                140.156143,
+                12579.389648
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12132.630859,
+                141.261078,
+                12576.880859
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12132.165039,
+                140.156204,
+                12575.291016
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12131.422852,
+                141.261032,
+                12573.311523
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12130.957031,
+                140.156158,
+                12571.72168
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12130.105469,
+                141.261047,
+                12569.4375
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12129.639648,
+                140.156174,
+                12567.847656
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12135.80957,
+                141.261032,
+                12571.8125
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12135.34375,
+                140.156158,
+                12570.222656
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12134.492188,
+                141.261047,
+                12567.938477
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12134.026367,
+                140.156174,
+                12566.348633
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12139.797852,
+                141.261032,
+                12583.756836
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12139.332031,
+                140.156158,
+                12582.166992
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12138.524414,
+                141.261017,
+                12579.480469
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12138.058594,
+                140.156143,
+                12577.890625
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12137.017578,
+                141.261078,
+                12575.381836
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12136.551758,
+                140.156204,
+                12573.791992
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12141.135742,
+                141.261063,
+                12569.661133
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12140.669922,
+                140.156189,
+                12568.071289
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12139.818359,
+                141.261078,
+                12565.787109
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12139.352539,
+                140.156204,
+                12564.197266
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12145.124023,
+                141.261063,
+                12581.605469
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12144.658203,
+                140.156189,
+                12580.015625
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12143.850586,
+                141.261047,
+                12577.329102
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12143.384766,
+                140.156174,
+                12575.739258
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12142.34375,
+                141.261108,
+                12573.230469
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12141.87793,
+                140.156235,
+                12571.640625
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12146.298828,
+                141.261017,
+                12567.705078
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12145.833008,
+                140.156143,
+                12566.115234
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12144.981445,
+                141.261032,
+                12563.831055
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12144.515625,
+                140.156158,
+                12562.241211
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12150.287109,
+                141.261017,
+                12579.649414
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12149.821289,
+                140.156143,
+                12578.05957
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12149.013672,
+                141.261002,
+                12575.373047
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12148.547852,
+                140.156128,
+                12573.783203
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12147.506836,
+                141.261063,
+                12571.274414
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12147.041016,
+                140.156189,
+                12569.68457
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12151.640625,
+                141.261063,
+                12566.351563
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12151.174805,
+                140.156189,
+                12564.761719
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12150.323242,
+                141.261078,
+                12562.477539
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12149.857422,
+                140.156204,
+                12560.887695
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12155.628906,
+                141.261063,
+                12578.295898
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12155.163086,
+                140.156189,
+                12576.706055
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12154.355469,
+                141.261047,
+                12574.019531
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12153.889648,
+                140.156174,
+                12572.429688
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12152.848633,
+                141.261108,
+                12569.920898
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12152.382813,
+                140.156235,
+                12568.331055
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12156.790039,
+                141.261063,
+                12564.996094
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12156.324219,
+                140.156189,
+                12563.40625
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12155.472656,
+                141.261078,
+                12561.12207
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12155.006836,
+                140.156204,
+                12559.532227
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12160.77832,
+                141.261063,
+                12576.94043
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12160.3125,
+                140.156189,
+                12575.350586
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12159.504883,
+                141.261047,
+                12572.664063
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12159.039063,
+                140.156174,
+                12571.074219
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12157.998047,
+                141.261108,
+                12568.56543
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12157.532227,
+                140.156235,
+                12566.975586
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12149.330078,
+                141.261078,
+                12543.55957
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12148.864258,
+                140.156204,
+                12541.969727
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12148.012695,
+                141.261093,
+                12539.685547
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12147.546875,
+                140.156219,
+                12538.095703
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12153.318359,
+                141.261078,
+                12555.503906
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12152.852539,
+                140.156204,
+                12553.914063
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12127.951172,
+                141.261047,
+                12563.819336
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12151.579102,
+                140.156189,
+                12549.637695
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12150.538086,
+                141.261124,
+                12547.128906
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12150.072266,
+                140.15625,
+                12545.539063
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12152.044922,
+                141.261063,
+                12551.227539
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12127.485352,
+                140.156174,
+                12562.229492
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12126.677734,
+                141.261032,
+                12559.542969
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12126.211914,
+                140.156158,
+                12557.953125
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12125.170898,
+                141.261093,
+                12555.444336
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12124.705078,
+                140.156219,
+                12553.854492
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12123.962891,
+                141.261047,
+                12551.875
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12123.49707,
+                140.156174,
+                12550.285156
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12122.645508,
+                141.261063,
+                12548.000977
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12122.179688,
+                140.156189,
+                12546.411133
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12128.349609,
+                141.261047,
+                12550.375977
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12127.883789,
+                140.156174,
+                12548.786133
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12127.032227,
+                141.261063,
+                12546.501953
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12126.566406,
+                140.156189,
+                12544.912109
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12132.337891,
+                141.261047,
+                12562.320313
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12131.87207,
+                140.156174,
+                12560.730469
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12131.064453,
+                141.261032,
+                12558.043945
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12130.598633,
+                140.156158,
+                12556.454102
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12129.557617,
+                141.261093,
+                12553.945313
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12129.091797,
+                140.156219,
+                12552.355469
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12133.675781,
+                141.261078,
+                12548.224609
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12133.209961,
+                140.156204,
+                12546.634766
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12132.358398,
+                141.261093,
+                12544.350586
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12131.892578,
+                140.156219,
+                12542.760742
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12137.664063,
+                141.261078,
+                12560.168945
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12137.198242,
+                140.156204,
+                12558.579102
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12136.390625,
+                141.261063,
+                12555.892578
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12135.924805,
+                140.156189,
+                12554.302734
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12134.883789,
+                141.261124,
+                12551.793945
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12134.417969,
+                140.15625,
+                12550.204102
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12138.838867,
+                141.261032,
+                12546.268555
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12138.373047,
+                140.156158,
+                12544.678711
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12137.521484,
+                141.261047,
+                12542.394531
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12137.055664,
+                140.156174,
+                12540.804688
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12142.827148,
+                141.261032,
+                12558.212891
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12142.361328,
+                140.156158,
+                12556.623047
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12141.553711,
+                141.261017,
+                12553.936523
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12141.087891,
+                140.156143,
+                12552.34668
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12140.046875,
+                141.261078,
+                12549.837891
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12139.581055,
+                140.156204,
+                12548.248047
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12144.180664,
+                141.261078,
+                12544.915039
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12143.714844,
+                140.156204,
+                12543.325195
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12142.863281,
+                141.261093,
+                12541.041016
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12142.397461,
+                140.156219,
+                12539.451172
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12148.168945,
+                141.261078,
+                12556.859375
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12147.703125,
+                140.156204,
+                12555.269531
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12146.895508,
+                141.261063,
+                12552.583008
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12146.429688,
+                140.156189,
+                12550.993164
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Misc_Calvary1",
+            "pos": [
+                12145.388672,
+                141.261124,
+                12548.484375
+            ],
+            "ypr": [
+                19.999996,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Cemetery_Grave4",
+            "pos": [
+                12144.922852,
+                140.15625,
+                12546.894531
+            ],
+            "ypr": [
+                17.878597,
+                0,
+                0
+            ],
+            "scale": 0.999999,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12103.621094,
+                138.859772,
+                12577.043946
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12085.114258,
+                138.804733,
+                12576.449219
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12115.963867,
+                138.886047,
+                12568.78125
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12125.633789,
+                138.88597099999998,
+                12595.535156
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12133.643554999999,
+                138.88589499999998,
+                12598.700196
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12124.873047,
+                138.886047,
+                12605.545898999999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12109.50586,
+                138.88598599999997,
+                12603.383789
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12110.179688,
+                138.885925,
+                12595.950196
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12094.729492,
+                138.88594099999997,
+                12601.259766
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12104.335938,
+                138.885956,
+                12642.659179999999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12099.56836,
+                138.88610799999998,
+                12656.350586
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12056.268554999999,
+                138.88598599999997,
+                12616.284179999999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12077.466797,
+                138.88597099999998,
+                12557.990235
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12050.612304999999,
+                138.88591,
+                12565.40625
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12050.565429999999,
+                138.88601699999998,
+                12592.963867
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12067.565429999999,
+                138.88589499999998,
+                12580.985352
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12076.305664,
+                138.88594099999997,
+                12611.735352
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12084.208985,
+                138.88598599999997,
+                12622.986327999999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12051.486327999999,
+                138.885956,
+                12631.742188
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12037.034179999999,
+                138.88598599999997,
+                12601.434571
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12027.294922,
+                138.88594099999997,
+                12576.041016
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12021.607422,
+                138.88598599999997,
+                12638.554688
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12094.070313,
+                138.886002,
+                12642.560547
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12075.980469,
+                138.886002,
+                12646.158202999999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12092.22461,
+                138.885956,
+                12683.056641
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12079.911133,
+                138.886047,
+                12671.595702999999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12108.716797,
+                138.88598599999997,
+                12677.222656
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12119,
+                138.88601699999998,
+                12693.267577999999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12111.621094,
+                138.886002,
+                12697.881836
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12134.442383,
+                138.88606299999998,
+                12709.309571
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12120.242188,
+                138.886047,
+                12721.085938
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12152.241211,
+                138.88601699999998,
+                12708.246094
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12142.862304999999,
+                138.88598599999997,
+                12684.399414
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12128.360352,
+                138.88598599999997,
+                12664.237304999999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12114.964844,
+                138.88598599999997,
+                12666.986327999999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12163.021485,
+                138.88610799999998,
+                12681.38086
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12231.972656,
+                138.886093,
+                12645.230469
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12253.703125,
+                138.88598599999997,
+                12665.084961
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12197.602539,
+                138.88597099999998,
+                12679.626952999999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12227.249023999999,
+                138.88598599999997,
+                12702.458008
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12245.118164,
+                138.886047,
+                12602.772461
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12287.809571,
+                138.88601699999998,
+                12629.926758
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12233.147461,
+                138.88597099999998,
+                12551.682617
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12214.889648999999,
+                138.88598599999997,
+                12531.756836
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12246.399414,
+                138.88598599999997,
+                12520.144531
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12275.692383,
+                138.88601699999998,
+                12542.500977
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12265.435547,
+                138.88601699999998,
+                12509.086914
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12230.766602,
+                138.885956,
+                12496.567383
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12193.206054999999,
+                138.88598599999997,
+                12527.383789
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12183.128906,
+                138.886032,
+                12544.435547
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12162.952148999999,
+                138.88598599999997,
+                12518.791016
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12200.168946,
+                138.88598599999997,
+                12569.102539
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12200.769531,
+                138.88598599999997,
+                12584.175781
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12168.480469,
+                138.88597099999998,
+                12605.857422
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12140.25,
+                138.88601699999998,
+                12628.226563
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12189.957031,
+                138.88598599999997,
+                12635.035156
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12197.113281,
+                138.885956,
+                12616.789063
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12087.72461,
+                139.726945,
+                12691.992188
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12098.998047,
+                139.72697499999998,
+                12649.083985000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12070.920898999999,
+                139.726945,
+                12649.738282
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12047.485352,
+                139.72696,
+                12633.067383000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12099.044922,
+                139.72692999999998,
+                12629.78418
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12067.653321,
+                139.726945,
+                12629.713868
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12036.754883,
+                139.726945,
+                12666.490235000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12048.385742,
+                139.727006,
+                12687.056641000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12066.414063,
+                139.726945,
+                12712.949219000002
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12054.716797,
+                139.726914,
+                12708.493164000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12095.635742,
+                139.726899,
+                12718.351563
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12176.028321,
+                139.727006,
+                12696.597657
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12169.299804999999,
+                139.726914,
+                12679.380860000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12148.714844,
+                139.727006,
+                12679.703125000002
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12139.646485,
+                139.726792,
+                12725.961914000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12118.420898999999,
+                139.727052,
+                12710.137696000002
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12238.185547,
+                139.726869,
+                12673.225586
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12261.206054999999,
+                139.726914,
+                12692.317383000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12219.279297,
+                139.726945,
+                12680.917969000002
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12284.463867,
+                139.726945,
+                12658.268555
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12271.675781,
+                139.726991,
+                12632.187500000002
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12212.083008,
+                139.72697499999998,
+                12655.402344000002
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12217.993164,
+                139.726914,
+                12669.880860000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12209.588867,
+                139.726899,
+                12701.22168
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12171.585938,
+                139.726945,
+                12712.680664000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12254.143554999999,
+                139.72697499999998,
+                12613.418946000002
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12264.776367,
+                139.72697499999998,
+                12589.720704000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12234.286133,
+                139.72697499999998,
+                12587.047852000002
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12201.301758,
+                139.726899,
+                12557.781250000002
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12223.740235,
+                139.726945,
+                12519.842774
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12231.91211,
+                139.72696,
+                12535.622071000002
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12258.041992,
+                139.72697499999998,
+                12518.400391000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12239.211914,
+                139.72692999999998,
+                12495.841797000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12195.56836,
+                139.727006,
+                12508.541016000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12270.508789,
+                139.727006,
+                12518.937500000002
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12196.401367,
+                139.726945,
+                12540.378907
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12168.291992,
+                139.72685299999998,
+                12523.532227000002
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12190.839844,
+                139.727036,
+                12574.841797000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12161.913086,
+                139.727006,
+                12569.498047000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12133.770508,
+                139.727006,
+                12538.148438
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12153.948242,
+                139.726914,
+                12544.133789000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12139.982422,
+                139.726991,
+                12576.798829000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12124.018554999999,
+                139.726914,
+                12568.634766000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_rosacanina_1s.p3d",
+            "pos": [
+                12150.762696,
+                139.72692999999998,
+                12585.379883000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12163.500977,
+                138.88597099999998,
+                12556.286133
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12112.583008,
+                138.88597099999998,
+                12550.75586
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12147.319336,
+                138.88598599999997,
+                12530.250977
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12146.121094,
+                138.885956,
+                12587.084961
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\bush\\b_prunusspinosa_2s.p3d",
+            "pos": [
+                12139.386719,
+                138.88594099999997,
+                12598.971679999999
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12154.418944999998,
+                136.52894500000002,
+                12525.420899
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12125.535155999998,
+                136.529006,
+                12583.865234
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12075.983398999997,
+                136.52894500000002,
+                12720.570313
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12090.120116999997,
+                136.529098,
+                12729.091797000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12088.786132999998,
+                136.528915,
+                12715.758789000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12059.351562999997,
+                136.51329,
+                12623.712891000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12231.442382999998,
+                136.52903700000002,
+                12557.910156
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12296.603515999997,
+                136.528976,
+                12634.493164000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12291.328124999998,
+                136.52890000000002,
+                12645.530274
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12179.668944999998,
+                136.528961,
+                12744.90918
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12200.006835999997,
+                136.52893,
+                12753.053711
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12223.809569999998,
+                136.528915,
+                12735.598633
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12214.402343999996,
+                136.53598000000002,
+                12821.837891000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12231.236327999997,
+                136.551254,
+                12826.415039000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12239.407226999998,
+                136.708175,
+                12809.553711
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12252.953124999998,
+                136.99662700000002,
+                12818.478516000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12196.712890999997,
+                136.528961,
+                12836.692383
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12266.424804999997,
+                137.780563,
+                12809.494141000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12216.369140999997,
+                136.52894500000002,
+                12748.126953
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12179.629882999998,
+                136.528976,
+                12684.018555
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12252.819335999997,
+                136.52893,
+                12697.294922000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12233.571288999998,
+                136.52894500000002,
+                12609.548828
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Dead_MassGrave",
+            "pos": [
+                12162.674805,
+                140.299973,
+                12563.301758
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Dead_MassGrave",
+            "pos": [
+                12158.089844,
+                140.300003,
+                12551.439453
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Dead_MassGrave",
+            "pos": [
+                12153.119141,
+                140.300003,
+                12537.490234
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Dead_MassGrave",
+            "pos": [
+                12120.242188,
+                140.299942,
+                12563.055664
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Dead_MassGrave",
+            "pos": [
+                12116.6875,
+                140.300064,
+                12549.68457
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "Land_Dead_MassGrave",
+            "pos": [
+                12125.192383,
+                140.300003,
+                12574.553711
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12118.539062999997,
+                136.529006,
+                12627.309570000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12190.435546999997,
+                136.52903700000002,
+                12585.371094
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12291.206054999997,
+                136.529022,
+                12541.806641000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12250.218749999998,
+                136.529083,
+                12476.362305
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12111.732421999997,
+                136.52903700000002,
+                12755.047852
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12014.610351999998,
+                136.529052,
+                12642.46875
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12004.697265999997,
+                136.529006,
+                12565.629883
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12007.202148999997,
+                136.52903700000002,
+                12583.289063
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12014.499999999998,
+                136.529052,
+                12575.731445000001
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12140.766601999998,
+                136.529022,
+                12673.651367
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12224.668944999998,
+                136.529067,
+                12639.170899
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+            "pos": [
+                12289.475585999997,
+                136.529083,
+                12690.522461
+            ],
+            "ypr": [
+                0,
+                0,
+                0
+            ],
+            "scale": 1,
+            "enableCEPersistency": 0
+        }
+    ]
+}

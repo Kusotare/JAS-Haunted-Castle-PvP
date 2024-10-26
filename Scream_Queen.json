@@ -1,0 +1,617 @@
+{
+	"name": "Scream_Queen",
+	"spawnWeight": 1,
+	"characterTypes": [
+		"SurvivorF_Eva",
+		"SurvivorF_Frida",
+		"SurvivorF_Gabi",
+		"SurvivorF_Helga",
+		"SurvivorF_Irena",
+		"SurvivorF_Judy",
+		"SurvivorF_Keiko",
+		"SurvivorF_Linda",
+		"SurvivorF_Maria",
+		"SurvivorF_Naomi",
+		"SurvivorF_Baty"
+	],
+	"attachmentSlotItemSets": [
+		{
+			"slotName": "Hands",
+			"discreteItemSets": [
+				{
+				  "itemType": "KitchenKnife",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				}
+			]
+		},
+		{
+			"slotName": "Headgear",
+			"discreteItemSets": [
+				{
+				  "itemType": "BaseballCap_Blue",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "BaseballCap_Black",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "BaseballCap_Beige",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "BaseballCap_Camo",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "BaseballCap_Olive",
+				  "spawnWeight": 1,
+					  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "BaseballCap_Pink",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "BaseballCap_Red",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				}
+			]
+		},
+		{
+		  "slotName": "Gloves",
+		  "discreteItemSets": [
+				{
+				  "itemType": "WoolGlovesFingerless_Green",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "WoolGlovesFingerless_Black",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "WoolGlovesFingerless_Tan",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				}
+			]
+		},
+		{
+		  "slotName": "Body",
+		  "discreteItemSets": [
+				{
+				  "itemType": "MiniDress_GreenChecker",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "MiniDress_BlueChecker",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "MiniDress_BlueWithDots",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "MiniDress_BrownChecker",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "MiniDress_Pink",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "MiniDress_PinkChecker",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "MiniDress_RedChecker",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "MiniDress_WhiteChecker",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				}
+			]
+		},
+		{
+		  "slotName": "Legs",
+		  "discreteItemSets": [
+				{
+				  "itemType": "ShortJeans_Black",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "ShortJeans_Blue",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "ShortJeans_Brown",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "ShortJeans_DarkBlue",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "ShortJeans_Green",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "ShortJeans_Red",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				}
+			]
+		},
+		{
+		  "slotName": "Feet",
+		  "discreteItemSets": [
+				{
+				  "itemType": "Sneakers_Black",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "Sneakers_Gray",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "Sneakers_Green",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "Sneakers_Red",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "Sneakers_White",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				}
+			]
+		},
+		{
+		  "slotName": "Back",
+		  "discreteItemSets": [
+				{
+				  "itemType": "ChildBag_Blue",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "ChildBag_Red",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "ChildBag_Green",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "CourierBag",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "CanvasBag_Olive",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [],
+				  "complexChildrenTypes": []
+				}
+			]
+		},
+		{
+		  "slotName": "Hips",
+		  "discreteItemSets": [
+				{
+				  "itemType": "HipPack_Green",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [
+					"Canteen"
+					],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "HipPack_Black",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [
+					"Canteen"
+					],
+				  "complexChildrenTypes": []
+				},
+				{
+				  "itemType": "HipPack_Party",
+				  "spawnWeight": 1,
+				  "attributes": {
+						"healthMin": 1,
+						"healthMax": 1,
+						"quantityMin": 1,
+						"quantityMax": 1
+					},
+				  "quickBarSlot": -1,
+				  "simpleChildrenUseDefaultAttributes": false,
+				  "simpleChildrenTypes": [
+					"Canteen"
+					],
+				  "complexChildrenTypes": []
+				}
+			]
+		}
+	],
+  "discreteUnsortedItemSets": [
+    {
+      "name": "Cargo1",
+      "spawnWeight": 1,
+      "attributes": {
+			"healthMin": 1,
+			"healthMax": 1,
+			"quantityMin": 1,
+			"quantityMax": 1
+		},
+      "quickBarSlot": -1,
+      "simpleChildrenUseDefaultAttributes": false,
+      "simpleChildrenTypes": [
+			"BandageDressing",
+			"TetracyclineAntibiotics",
+			"VitaminBottle"
+		],
+      "complexChildrenTypes": []
+    }
+  ]
+}
